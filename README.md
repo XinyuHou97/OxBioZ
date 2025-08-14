@@ -2,7 +2,7 @@
 
 This dataset contains about 1000 min of trunk bio-
 impedance together with various physiological and motion
-signals of 20 subjects performing a range of different daily
+signals of 21 subjects performing a range of different daily
 activities.
 
 ## Data Structure
@@ -11,7 +11,7 @@ All data is stored in a hierarchical HDF5 file.
 
 ## Subjects/Participants
 
-The table below provides overall statistics of the 20 participant's physical characteristics and
+The table below provides overall statistics of the 21 participant's physical characteristics and
 perceived functional ability (PFA) and physical activity
 rating (PAR). PFA and PAR are two popular scores based
 on questionnaires that estimate physical activity capability.
