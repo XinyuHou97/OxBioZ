@@ -7,7 +7,9 @@ activities.
 
 ## Data Structure
 
-All data is stored in a hierarchical HDF5 file.
+All data is stored in two hierarchical HDF5 files:
+* `OxBioZ_gel_electrodes.hdf5` contains data from 20 subjects wearing gel electrodes.
+* `OxBioZ_fabric_electrodes.hdf5` contains data from one subject wearing gel electrodes.
 
 ## Subjects/Participants
 
