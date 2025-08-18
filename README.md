@@ -13,10 +13,11 @@ All data is stored in two hierarchical HDF5 files:
 
 ## Subjects/Participants
 
-The table below provides overall statistics of the 21 participant's physical characteristics and
+The table below provides overall statistics of the 20 participant's physical characteristics and
 perceived functional ability (PFA) and physical activity
 rating (PAR). PFA and PAR are two popular scores based
 on questionnaires that estimate physical activity capability.
+The subject wearing fabric electrodes is excluded.
 
 | **Characteristic**                   | **Value**         |
 |--------------------------------------|-------------------|
