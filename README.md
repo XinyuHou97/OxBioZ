@@ -1,7 +1,7 @@
 # OxBioZ Dataset: Multi-Activity Dataset with Bioimpedance, Physiological, and Motion Signals
 
-This dataset contains about 1000 min of trunk bio-
-impedance together with various physiological and motion
+This dataset contains about 1000 min of trunk bio-impedance
+together with various physiological and motion
 signals of 21 subjects performing a range of different daily
 activities.
 
