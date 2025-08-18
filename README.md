@@ -54,6 +54,18 @@ For details about the OxBioZ device, please refer to our paper.
 |                 |                                 |              | Fat / muscle mass, etc.                  |
 | ECG             | Heal Force ECG Monitor          | -            | 3-lead ECG signal                        |
 
+## Data Collection Protocoll
+
+| **Period**     | **Time** | **Device**                                      | **Description**                                                                                                                                                                                           |
+| -------------- | -------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Measure 1    | –        | BCA <br> BioZ AFE                               | Measure body composition with BCA.<br>Measure MF-BIA with BioZ AFE at 12 frequencies <br>(F_I=819200, 409600, 204800, 102400, 51200, 25600, 12800, 6400, 3200, 1600, 800, 40 Hz).<br>Measure weight. |
+| Short test 1 | 5 min    | BioZ AFE <br> IMU <br> Oximeter <br> Spirometer | Five 1-min activities:<br>lying, sitting, standing, walking, running.<br>BioZ AFE collects in single-frequency mode.<br>SF-BIA: I=32.00  μA (RMS), F_I=51200 Hz.                                 |
+| Long test 1  | 20 min   | BioZ AFE <br> IMU <br> Oximeter                 | 0–3 min: warm-up (walk 6 km/h).<br>3–17 min: walk/jog/run at set speed.<br>17–20 min: cool-down (reduce speed).<br>Record Borg Rated Perceived Exertion (RPE) score.                                      |
+| Measure 2    | –        | -                                               | Same as Measure 1                                                                                                                                                                                         |
+| Long test 2  | 20 min   | -                                               | Same as Long test 1                                                                                                                                                                                       |
+| Short test 2 | 5 min    | -                                               | Same as Short test 1                                                                                                                                                                                      |
+| Measure 3    | –        | -                                               | Same as Measure 1                                                                                                                                                                                         |
+
 ## Footnote
 
 This research has been approved by the Research
