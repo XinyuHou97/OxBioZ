@@ -13,7 +13,7 @@ All data is stored in two hierarchical HDF5 files:
 
 ## Subjects/Participants
 
-The table below provides overall statistics of the 20 participant's physical characteristics and
+The table below provides overall statistics of the 20 participants physical characteristics and
 perceived functional ability (PFA) and physical activity
 rating (PAR). PFA and PAR are two popular scores based
 on questionnaires that estimate physical activity capability.
@@ -54,7 +54,7 @@ For details about the OxBioZ device, please refer to our paper.
 |                 |                                 |              | Fat / muscle mass, etc.                  |
 | ECG             | Heal Force ECG Monitor          | -            | 3-lead ECG signal                        |
 
-## Data Collection Protocoll
+## Data Collection Protocol
 
 | **Period**     | **Time** | **Device**                                      | **Description**                                                                                                                                                                                           |
 | -------------- | -------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
